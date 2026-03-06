@@ -24,7 +24,7 @@
 - **有關卡**：遊戲由多個「波次 (Waves)」組成，每一波的難度與敵人配置會隨時間提升。
 
 ### 遊戲展示影片
-- [https://youtu.be/nfceZHR7Yq0?si=VKv1QKgsfpMaNJVb](#)
+- [https://youtu.be/nfceZHR7Yq0?si=VKv1QKgsfpMaNJVb](https://youtu.be/nfceZHR7Yq0?si=VKv1QKgsfpMaNJVb)
 
 # Development timeline
 
